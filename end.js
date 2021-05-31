@@ -48,5 +48,5 @@ function keyPressed() {
 }
 
 function Return(){
-    window.parent.location.href = "https://github.com/qas-source/BackUp-Zork";;
+    window.parent.location.href = "https://github.com/qas-source/qas-source.github.io";
 }

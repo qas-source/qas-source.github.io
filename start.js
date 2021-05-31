@@ -79,4 +79,4 @@ function option0() {window.parent.change("game.html");} // Start Game
 
 function option1() {window.parent.change("rules.html");} // View instructions
 
-function option2() {window.parent.location.href = "https://github.com/qas-source/BackUp-Zork";} // View credits
+function option2() {window.parent.location.href = "https://github.com/qas-source/qas-source.github.io";} // View credits
