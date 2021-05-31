@@ -1,3 +1,3 @@
 # qas-source.github.io
  
-Well
+This is a simple text bassed game made with P5.js.
