@@ -1,0 +1,19 @@
+html, body { /*Background color*/
+  margin: 0;
+  padding: 0;
+  background-color: #3246A0;
+}
+canvas {
+  display: block;
+}
+
+main { /*Sets Size, center the p5.js*/
+  max-width: 880px;
+  margin: auto;
+}
+
+iframe { /*Style for the iframe*/
+  width: 100%;
+  height: 700px;
+  border: none;
+}
